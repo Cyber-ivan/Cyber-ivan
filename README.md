@@ -34,6 +34,6 @@
 
 ## GitHub Stats 📊
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gricana&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyber-ivan&show_icons=true&hide_title=true&count_private=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-ivan&layout=compact&theme=radical)
 ![Codewars training](https://www.codewars.com/users/Cyber-ivan/badges/large)
