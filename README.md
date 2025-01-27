@@ -33,4 +33,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyber-ivan&show_icons=true&hide_title=true&count_private=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-ivan&layout=compact&theme=radical)
 ![Codewars training](https://www.codewars.com/users/Cyber-ivan/badges/large)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=abramovd200&theme=dark)](https://github.com/Cyber-ivan/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
